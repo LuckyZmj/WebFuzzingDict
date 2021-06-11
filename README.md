@@ -1,5 +1,7 @@
 ### 前言
 
+渗透测试字典；爆破字典；Web字典；Dict；Fuzzing；
+
 因为文件比较大，将字典文件放到百度云上了，大家自取
 
 - 链接：https://pan.baidu.com/s/105v4uB9hcTv4XIcg7xubyA 
