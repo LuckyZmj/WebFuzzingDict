@@ -2,8 +2,8 @@
 
 因为文件比较大，将字典文件放到百度云上了，大家自取
 
-- 链接：https://pan.baidu.com/s/1KhER8oT2xPZecaZU_pbCbA
-- 提取码：ebcx
+- 链接：https://pan.baidu.com/s/105v4uB9hcTv4XIcg7xubyA 
+- 提取码：14ei 
 
 ### 0x01 整合了几个仓库的字典
 
